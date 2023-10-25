@@ -83,6 +83,7 @@ const frameSrc = [
   'acrobat.adobe.com',
   'adobe.demdex.net',
   'bid.g.doubleclick.net',
+  'commerce.adobe.com',
   'dc-api.adobecontent.io',
   'documentcloud.adobe.com',
   'acrobat.adobe.com',
@@ -95,6 +96,7 @@ const frameSrc = [
   'www.facebook.com',
   'www.youtube.com',
   's.company-target.com',
+  'ui.messaging.adobe.com/',
   ';',
 ];
 
@@ -145,6 +147,7 @@ const imgSrc = [
   's.tgm.yahoo-net.jp',
   's.yimg.jp',
   'yjtag.yahoo.co.jp',
+  'client.messaging.adobe.com/',
   ';',
 ];
 
